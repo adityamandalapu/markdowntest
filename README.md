@@ -59,7 +59,7 @@ Download the google formatter xml file from the following [link](https://github.
 In the eclipse go to the window -> preferences -> java -> code style -> formatter -> import -> add the xml file you saved on the local and hit apply      
 
     
-![Google Formatter](../tree/master/images/formatter.jpg)      
+![Google Formatter](https://github.com/adityamandalapu/markdowntest/tree/master/images/formatter.jpg)      
 
           
 ![Google Formatter XML](./tree/master/images/formatter xml.jpg)      

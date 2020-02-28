@@ -8,7 +8,7 @@ Download the eclipse going to the following [link](https://www.eclipse.org/downl
 
 please download the latest version of eclipse 
 <p>
-![new version of eclipse 2020](./images/eclipse download.jpg)
+![new version of eclipse 2020](./tree/master/images/eclipse download.jpg)
 
 ### Downloading Java 8 JDK
 
@@ -16,7 +16,7 @@ Download the JAVA 8 JDK from the flowing [link](https://www.oracle.com/java/tech
 
 please find the below image and click the desired 
 
-![JAVA 8](./images/java download.jpg)
+![JAVA 8](./tree/master/images/java download.jpg)
 
 ### Downloading and Installing Maven
  
@@ -24,18 +24,18 @@ Download the maven 3.3+ from the following [link](https://maven.apache.org/downl
 
 Downlaod the latest version of the Maven from the above link at the time of writing 3.6.x is the latest one as preovided below
 
-![Maven download zip ](./images/maven download.jpg)
+![Maven download zip ](./tree/master/images/maven download.jpg)
 
 Once The download is done extract the maven and place it in any of the local folder 
 
-![Maven Extract](./images/Maven Extract.jpg)
+![Maven Extract](./tree/master/images/Maven Extract.jpg)
 
 <p>
 Once the extract is done go to the Environment variables to add the Maven to the path for us to run the Maven form command line
 
 for the environment variables goto Control Panel -> System and Security -> System -> Advanced System settings -> **Environment Variables**
 
-![Env variables](./images/Env variables.jpg)
+![Env variables](./tree/master/images/Env variables.jpg)
 
 <br/>
 
@@ -59,10 +59,10 @@ Download the google formatter xml file from the following [link](https://github.
 In the eclipse go to the window -> preferences -> java -> code style -> formatter -> import -> add the xml file you saved on the local and hit apply      
 
     
-![Google Formatter](./images/formatter.jpg)      
+![Google Formatter](./tree/master/images/formatter.jpg)      
 
           
-![Google Formatter XML](./images/formatter xml.jpg)      
+![Google Formatter XML](./tree/master/images/formatter xml.jpg)      
 
 
 
